@@ -1,7 +1,7 @@
 # tookanim
 This is a repo for my website's public facing content.
-Thanks Jekyll community for free themes, espacial thanks to [landing-page-designers] (https://github.com/BlackrockDigital/startbootstrap)
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Thanks Jekyll community for free themes, espacial thanks to [landing-page-designers](https://github.com/BlackrockDigital/startbootstrap)
+Jekyll theme based on [landing-page bootstrap theme](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
  - Place a image in `/img/services/`
