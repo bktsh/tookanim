@@ -1,6 +1,6 @@
 ---
 layout: default
-img: standard.jpg
+img: egg2.jpg
 category: Services
 title:  تضمین کیفیت
 description: |
