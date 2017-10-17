@@ -1,6 +1,6 @@
 ---
 layout: default
-img: price.png
+img: priceTag.png
 category: Services
 title: تضمین قیمت
 description: |
