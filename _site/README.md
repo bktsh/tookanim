@@ -1,18 +1,20 @@
-# Landing Page Jekyll theme
-
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+# tookanim
+This is a repo for my website's public facing content.
+Thanks Jekyll community for free themes, espacial thanks to [landing-page-designers](https://github.com/BlackrockDigital/startbootstrap)
+Jekyll theme based on [landing-page bootstrap theme](http://startbootstrap.com/templates/landing-page/)
 
 ## How to use
  - Place a image in `/img/services/`
  - Create posts to display your services. Use the follow as an example:
 
-```txt
+
 ---
 layout: default
 img: ipad.png
 category: Services
 title: The service title
 ---
+
 The description of this service
 ```
 
@@ -33,3 +35,6 @@ The contents of this repository are licensed under the [Apache
 
 ## Version
 1.0.1
+
+```
+> You may clone this repo and use it as long as you stick to the [Licence](https://github.com/BlackrockDigital/startbootstrap#copyright-and-license).

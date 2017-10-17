@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: standard.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title:  تضمین کیفیت
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+ما با بهره گیری از شبکه تولید و توزیع کنندگان باتجربه و شناخته شده اقصی نقاط کشور٬ محصولات با بالاترین کیفیت را ارایه می دهیم و در صورت مشاهده هرگونه نقص کیفی یا کمی در محصولات، بدون هرگونه دیرکردی بسرعت بازپس میگیریم

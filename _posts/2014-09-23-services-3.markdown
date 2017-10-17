@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: ecom.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title:   سرعت، دقت و امنیت
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+با پرداخت آنلاین در پورتال امن ما، شما نگران هیچ چیز دیگری نخواهید بود. ما سفارش شما را به سرعت تحویل می دهیم
